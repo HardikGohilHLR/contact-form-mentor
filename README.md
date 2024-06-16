@@ -26,7 +26,7 @@ npm i
 ```
 3. Run the app at http://localhost:5173
 ```sh
-npm run start
+npm run dev
 ```
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
