@@ -1,4 +1,4 @@
-# Contact form - 
+# Contact form
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
